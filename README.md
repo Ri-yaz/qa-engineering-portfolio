@@ -103,8 +103,8 @@ I am seeking opportunities as a QA Intern or Junior QA Engineer where I can appl
 ## Connect With Me
 
 - GitHub: https://github.com/Ri-yaz
-- LinkedIn: Add your LinkedIn profile URL
-- Email: Add your professional email address
+- LinkedIn: https://www.linkedin.com/in/riyaz-karmacharya-93717b1ab/
+- Email: rajh7155@gmail.com
 
 ---
 
