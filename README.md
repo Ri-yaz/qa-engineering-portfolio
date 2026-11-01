@@ -13,7 +13,7 @@ My focus is on identifying software defects, validating functionality, improving
 
 ## About Me
 
-I am an aspiring QA Engineer currently pursuing Quality Assurance Training with AI at Mindrisers Institute.
+I am an aspiring QA Engineer completed Quality Assurance Training with AI at Mindrisers Institute.
 
 I have hands-on experience designing test scenarios, preparing and executing test cases, performing positive and negative testing, identifying defects, and preparing bug reports and test documentation.
 
